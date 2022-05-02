@@ -1,0 +1,16 @@
+C:\Users\qq\source\repos\practice1\practice1\obj\Debug\net5.0-windows\practice1.csproj.AssemblyReference.cache
+C:\Users\qq\source\repos\practice1\practice1\obj\Debug\net5.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\qq\source\repos\practice1\practice1\obj\Debug\net5.0-windows\practice1.csproj.ResolveComReference.cache
+C:\Users\qq\source\repos\practice1\practice1\obj\Debug\net5.0-windows\practice1.Form1.resources
+C:\Users\qq\source\repos\practice1\practice1\obj\Debug\net5.0-windows\practice1.Form2.resources
+C:\Users\qq\source\repos\practice1\practice1\obj\Debug\net5.0-windows\practice1.Form3.resources
+C:\Users\qq\source\repos\practice1\practice1\obj\Debug\net5.0-windows\practice1.Form4.resources
+C:\Users\qq\source\repos\practice1\practice1\obj\Debug\net5.0-windows\practice1.Form5.resources
+C:\Users\qq\source\repos\practice1\practice1\obj\Debug\net5.0-windows\practice1.Form6.resources
+C:\Users\qq\source\repos\practice1\practice1\obj\Debug\net5.0-windows\practice1.Form7.resources
+C:\Users\qq\source\repos\practice1\practice1\obj\Debug\net5.0-windows\practice1.Form8.resources
+C:\Users\qq\source\repos\practice1\practice1\obj\Debug\net5.0-windows\practice1.csproj.GenerateResource.cache
+C:\Users\qq\source\repos\practice1\practice1\obj\Debug\net5.0-windows\practice1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qq\source\repos\practice1\practice1\obj\Debug\net5.0-windows\practice1.AssemblyInfoInputs.cache
+C:\Users\qq\source\repos\practice1\practice1\obj\Debug\net5.0-windows\practice1.AssemblyInfo.cs
+C:\Users\qq\source\repos\practice1\practice1\obj\Debug\net5.0-windows\practice1.csproj.CoreCompileInputs.cache
